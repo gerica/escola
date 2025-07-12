@@ -21,3 +21,5 @@ Thumbs.db
 # Arquivos de ambiente - NUNCA adicione segredos ao Git!
 .env
 *.env
+
+fads
