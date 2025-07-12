@@ -1,0 +1,23 @@
+# Arquivo de log
+*.log
+
+# Artefatos de build do Maven e Gradle
+target/
+build/
+*.jar
+*.war
+
+# Arquivos de configuração de IDEs
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+
+# Arquivos de sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos de ambiente - NUNCA adicione segredos ao Git!
+.env
+*.env
